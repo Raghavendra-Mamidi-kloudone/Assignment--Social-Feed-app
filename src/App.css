@@ -59,6 +59,13 @@
 
 }
 
+.icon1{
+
+}
+
+.icon2{
+  
+}
 
 .rowpostcss{
   margin-top: -5%;
@@ -97,12 +104,102 @@ margin-left: 399%;
   margin-right:  5%;
 }
 
+.addpostbutcss{
 
-.addpostcss{
-padding:  1%;
 
 }
 
+.threedivcss{
+  margin-left: 81px;
+
+}
+
+
+.buttonpostnav{
+
+  border: none;
+  width: 157%;
+  margin-left: -143%;
+  color: white;
+  background-color: #ff6204;
+}
+
+.imgnav{
+  width: 6%;
+  border-radius: 25px;
+  margin-left: 81%;
+}
+
+.searchnav{
+  margin-left: 306%;
+    border: 2px solid #cecece;
+}
+
+.commentsprofile{
+  height: auto;
+  width: 16%;
+  margin-left: -10%;
+  border-radius: 23px;
+}
+
+.profilecsscomment{
+  height: auto;
+  width: 16%;
+  margin-left: -5%;
+  border-radius: 23px;
+}
+
+.commentsparagraph{
+
+  font-size: large;
+}
+
+.titlenav{
+  margin-left: 444%;
+  font-family: fantasy;
+}
+
+.logocss{
+
+  margin-left: 198%;
+}
+
+.form{
+  margin-left: -22%;
+}
+
+.rowmarginone{
+  margin-top: -1%;
+
+}
+
+
+.homecss{
+  margin-left: -16px;
+  margin-top: -8%;
+
+}
+.homecss1{
+  margin-left: -16px;
+  margin-top: -8%;
+  color: #e66f6f;
+}
+
+
+.rowmargintwo{
+
+  margin-top: -2%;
+}
+.addpostcss{
+  padding: 2%;
+  border: none;
+
+}
+
+
+.iconcss{
+  margin-left: -81%;
+}
 
 * {
   box-sizing: border-box;

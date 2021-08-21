@@ -6,9 +6,12 @@ import Postcard from './Components/Postcard';
 function App() {
   return (
     <div style={{backgroundColor:'#eef2f5'}}>
+      <Navbar/><br/>
    <Header/>
 <br/>
+<br/>
   <Postcard/>
+  <br/>
    </div>
   );
 }
