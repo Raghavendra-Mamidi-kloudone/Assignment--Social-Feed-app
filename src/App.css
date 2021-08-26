@@ -32,7 +32,7 @@
 .profilecss{
   height: auto;
   width: 7%;
-  margin-left: -53%;
+  margin-left: -20%;
   border-radius: 23px;
 }
 
@@ -138,14 +138,14 @@ margin-left: 399%;
 .commentsprofile{
   height: auto;
   width: 16%;
-  margin-left: -10%;
+  margin-left: -38%;
   border-radius: 23px;
 }
 
 .profilecsscomment{
   height: auto;
   width: 16%;
-  margin-left: -5%;
+  margin-left: -20%;
   border-radius: 23px;
 }
 
@@ -165,6 +165,31 @@ margin-left: 399%;
   font-family: fantasy;
 }
 
+.newsparacss{
+color:#fe5f02
+}
+
+.peoplescssrow{
+  padding: 3%;
+}
+
+.addcssgroup{
+  border: none;
+  background-color: #ff6204;
+  color: white;
+}
+
+.newsheadercss{
+  margin-left: -37%;
+    font-size: initial;
+}
+
+.rowthree{
+  border: 2px solid white;
+    background-color: white;
+}
+
+
 .logocss{
 
   margin-left: 198%;
@@ -179,6 +204,34 @@ margin-left: 399%;
 
 }
 
+
+
+.peoplebtn{
+  padding: 4px;
+  /* border: none; */
+  border: 2px solid #ff6204;
+  border-radius: 11px;
+  color: #ff6204;
+  width: 71%;
+  background-color: white;
+}
+
+.peopleimg{
+
+  border-radius: 40%;
+  height: 73%;
+  width: 51%;
+}
+
+.peopletext{
+  font-size: small;
+}
+
+.headerscss{
+
+  background-color: #e1e8ec;
+    border-bottom: 8px solid #eef2f5;
+}
 
 .homecss{
   margin-left: -16px;
